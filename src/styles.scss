@@ -1,0 +1,13 @@
+h1 {
+    font-size: 100px !important;
+    //pegar cor do arquivo escolhido
+    color: var(--primary-color) !important;
+    // color: $primary !important;
+}
+
+h2 {
+    font-size: 70px !important;
+    color: var(--secondary-color) !important;
+    //pegar cor do arquivo escolhido
+    // color: var(--secondary-color) !important;
+}
